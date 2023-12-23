@@ -6,6 +6,7 @@ public class A {
 		System.out.println("A");
 		System.out.println("master에서 A.java 수정");
 		System.out.println("devB에서 A.java 수정");
+		System.out.println("devC 에서 A.java 수정");
 	}
 
 }
